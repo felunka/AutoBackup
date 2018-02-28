@@ -1,0 +1,7 @@
+name: AutoBackup
+version: 1.0
+description: Saves all worlds every 5min.
+author: felunka
+website: https://felunka.de
+
+main: de.felunka.autoBackup.Main
