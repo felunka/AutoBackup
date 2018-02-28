@@ -1,0 +1,8 @@
+{  
+   "lang":"de_DE",
+   "tenSecondAnnounce":"Server speichert Welt in 10 sekunden. Es könnte kurz laggen...",
+   "countingBefore":"Server speichert Welt in",
+   "countingAfter":"sekunden.",
+   "savingAnnounce":"Server speichert Welt... Es könnte kurz laggen!",
+   "savingDoneAnnounce":"Welt gespeichert!"
+}
